@@ -1,0 +1,10 @@
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\bin\Debug\WindowsFormsApp1.exe.config
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\bin\Debug\WindowsFormsApp1.exe
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\bin\Debug\WindowsFormsApp1.pdb
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.exe
+E:\08-AtGalway\MS806\assignment2\Halo Fitness\obj\Debug\WindowsFormsApp1.pdb
