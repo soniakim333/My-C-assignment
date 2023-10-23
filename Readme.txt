@@ -1,0 +1,8 @@
+The purpose of this assignment is to create a one-page form that facilitates pricing and booking processes for Halo Fitness programs.
+
+Clients can make program and session choices, and they can take advantage of bundle discounts. For groups of more than 4 people who are also applying for an upgrade course, a group discount is offered, and bottle maintenance can be added for an extra fee. To meet these requirements, list boxes, radio buttons, and checkboxes are used to provide program options. Conditional statements like if-else and switch are applied to store the client's selections.
+
+When the "Display" button is clicked, the information provided by clients is displayed. If they decide to Book, a confirmation message pops up. If clients click "Yes," the interface is cleared for the next booking, and the data is stored in variables. A summary panel displays the price, selected options, and more. If clients press "No," the displayed message changes automatically as they modify their selections.
+
+The "ghost button" is designed to allow clients to express interest in an upgrade course. It is checked by default, and if clients decide not to opt for an upgrade course, they can communicate with the team, and the button becomes visible when they click "Display."
+Managing the visibility and enabling/disabling of elements is an interactive aspect of this assignment, ensuring a user-friendly and efficient booking process.
